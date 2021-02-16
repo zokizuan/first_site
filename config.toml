@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://zokizuan.github.io/public/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
